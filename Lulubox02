@@ -1,0 +1,22 @@
+{
+   "app_redirectOtherAppStatus":"0",
+   "app_newPackageName":"",
+   "app_AppOpenAdStatus":"0",
+   "app_dialogBeforeAdShow":"0",
+   "app_adPlatformSequence":"Facebookaudiencenetwork,Admob",
+   "app_howShowAd":"0",
+   "qureka":"https://831.win.qureka.com/",
+   "more_app":"https://raw.githubusercontent.com/smitbhanderi/RajMandir4/main/db.json",
+   "admob_showAdStatus":"0",
+   "AppID":"",
+   "Admob_Banner":"",
+   "Admob_Interstitial":"",
+   "Admob_Native":"",
+   "AppOpen":"",
+   "fbad_showStatus":"1",
+   "mopub_banner":"906be81e422d46c4a2384ba8373dbc4b",
+   "mopub_inter1":"c86d766cb78342b69e34184feac4efde",
+   "mopub_inter2":"c86d766cb78342b69e34184feac4efde",
+   "mopub_inter3":"c86d766cb78342b69e34184feac4efde",
+   "mopub_native":"09349d18f31b472ea93ebb373ea6b18b"
+}
