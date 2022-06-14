@@ -1,22 +1,26 @@
 {
-   "app_redirectOtherAppStatus":"0",
-   "app_newPackageName":"",
-   "app_AppOpenAdStatus":"0",
-   "app_dialogBeforeAdShow":"0",
-   "app_adPlatformSequence":"Facebookaudiencenetwork,Admob",
-   "app_howShowAd":"0",
-   "qureka":"https://831.win.qureka.com/",
-   "more_app":"https://raw.githubusercontent.com/smitbhanderi/RajMandir4/main/db.json",
-   "admob_showAdStatus":"0",
-   "AppID":"",
-   "Admob_Banner":"",
-   "Admob_Interstitial":"",
-   "Admob_Native":"",
-   "AppOpen":"",
-   "fbad_showStatus":"1",
-   "mopub_banner":"8935352be82a4e5ebbe9e4fbd71f0d92",
-   "mopub_inter1":"438158802d6a4b51a4b1628f3f4d1ed4",
-   "mopub_inter2":"438158802d6a4b51a4b1628f3f4d1ed4",
-   "mopub_inter3":"438158802d6a4b51a4b1628f3f4d1ed4",
-   "mopub_native":"38c69adfacef41e5849fb1cb16588dab"
+   "Ads":[
+      {
+         "app_id":"ca-app-pub-3940256099942544~3347511711",
+         "banner_id":"",
+         "interstitial_id":"",
+         "native_id":"",
+         "qureka_ads":"https://281.go.mglgamez.com/",
+         "status":"true",
+         "splash_ads":"false"
+      },
+      {
+         "app_id":"",
+         "banner_id":"",
+         "interstitial_id":"",
+          "interstitial_id1":"",
+          "interstitial_id2":"",
+         "native_id":"",
+         "native_banner_id":"",
+         "rectangle_banner_id":"",
+         "status":"true",
+         "splash_ads":"false"
+         
+}
+   ]
 }
